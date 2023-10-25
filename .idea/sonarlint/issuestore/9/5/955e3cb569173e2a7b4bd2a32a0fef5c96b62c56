@@ -1,0 +1,6 @@
+
+O
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¿ªÜ¶1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨œò¨8ßÄş¶1
+G	java:S106	"+Replace this use of System.out by a logger.(«‹Îõ8ÈªÜ¶1
+G	java:S106"+Replace this use of System.out by a logger.(¦Ã•8ÉªÜ¶1
