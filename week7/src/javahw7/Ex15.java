@@ -11,4 +11,7 @@ public class Ex15 {
         name = name.toLowerCase();
         System.out.println(name);
     }
+
+    public static class Ex2 {
+    }
 }
