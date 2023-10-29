@@ -12,6 +12,4 @@ public class Ex15 {
         System.out.println(name);
     }
 
-    public static class Ex2 {
-    }
 }

@@ -17,3 +17,5 @@ J
 week7/src/javahw7/Ex5.java,1\b\1b767448d6efeccec9d755690efb234c58d1b3ba
 K
 week7/src/javahw7/Ex15.java,d\5\d5feb77a9a83abe0696ce310bcbef0c55395604f
+T
+$week7/src/week7/src/javahw7/Ex6.java,e\4\e462d9567bf5dd9d2c0d4cc53e0db4f4e24498cc
