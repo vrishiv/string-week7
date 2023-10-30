@@ -1,5 +1,6 @@
 package hiteshwk_8;
 
+//Print multiplication table of 24, 50 and 29 using loop.
 import java.util.Scanner;
 
 public class loop_1 {
