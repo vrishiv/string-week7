@@ -27,5 +27,6 @@ public class PositiveNegative {
         {
             System.out.println("The given number "+x+" is neither Positive nor Negative ");
         }
+
     }
 }
