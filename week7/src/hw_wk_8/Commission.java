@@ -10,12 +10,14 @@ public class Commission {
 //        int a = text.nextInt();
 //        System.out.println("Seller ID");
 //        double CommissionRate = 0;
-        double TotalSales, Commission = 5;
+        double TotalSales, Commission = 0;
         Scanner Read = new Scanner (System.in);
         System.out.println("Please enter total sales ");
         TotalSales=Read.nextDouble();
 
-        double CommissionRate = TotalSales*Commission/100;
+
+        double Commssion = 0;
+        double CommissionRate = TotalSales*Commssion/100;
         if (TotalSales>=50000)
 
         {
